@@ -1,0 +1,17 @@
+{
+  "name": "dbe.devops",
+  "version": "1.0.0",
+  "description": "Intro to DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dev-ops"
+  ],
+  "author": "Daily Bruin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
