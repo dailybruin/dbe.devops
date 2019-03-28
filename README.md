@@ -84,7 +84,7 @@ app.listen(port, host, () => {
 
 ## Deployment on Heroku
 
-Heroku is...
+Heroku is a "platform as a service," (PaaS) meaning that they own a large number of physical machines ("servers") that they offer as their service/products. There's a variety of different integrations, paid plans, and cool features, but for today we'll just need a simple web app running on a single server.
 
 For deploying a Node application on Heroku, there are two options to get your app started up properly:
 
