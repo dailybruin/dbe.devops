@@ -104,7 +104,7 @@ web: node index.js
 
 3. Nice! Now we have our deployment scripts set up. Let's head over to Heroku now (you have your account, right?)
 
-###Heroku
+### Heroku
 
 1. Go to your Heroku [dashboard](https://dashboard.heroku.com/apps)
 
